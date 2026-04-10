@@ -104,11 +104,6 @@ Engineered an autonomous UAV with HMC5883L magnetometer-based navigation, real-t
 
 ## 📜 Certifications & Learning
 
-- [ ] MATLAB Signal Processing Onramp — MathWorks
-- [ ] Python for Data Science — Coursera
-- [ ] TensorFlow Developer Certificate — Google
-- [ ] LabVIEW Core 1 — National Instruments
-- [ ] Medical Device Regulations Awareness — ISO 13485
 
 ---
 
