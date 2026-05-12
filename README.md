@@ -105,7 +105,7 @@ Engineered an autonomous UAV with HMC5883L magnetometer-based navigation, real-t
 ## 📜 Certifications & Courses
 
 ### 🎓 NPTEL Certification
-- 🏥 **Healthcare Entrepreneurship** — :contentReference[oaicite:0]{index=0} (NPTEL)
+- 🏥 **Healthcare Entrepreneurship** — :94%
   - Explored innovation, startup development, regulatory pathways, and business strategies for healthcare technologies and medical devices.
   - Covered topics including market analysis, intellectual property, funding, and commercialization of biomedical products.
 ---
