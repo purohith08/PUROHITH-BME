@@ -103,7 +103,7 @@ Engineered an autonomous UAV with HMC5883L magnetometer-based navigation, real-t
 ---
 
 ## 📜 Certifications & Learning
-
+Nptel: healthcare entrepreneurship
 
 ---
 
